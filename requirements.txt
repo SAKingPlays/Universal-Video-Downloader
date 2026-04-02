@@ -1,0 +1,10 @@
+PyQt6
+pandas
+matplotlib
+reportlab
+qrcode
+pillow
+bcrypt
+openpyxl
+opencv-python
+pyzbar

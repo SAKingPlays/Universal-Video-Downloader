@@ -1,0 +1,15 @@
+/* UltraDL Qt Theme (dark + glass-friendly) */
+
+QWidget {
+    background-color: rgba(10, 12, 18, 255);
+    color: rgba(255, 255, 255, 235);
+}
+
+QPushButton {
+    border-radius: 14px;
+}
+
+QTextEdit, QLineEdit {
+    border-radius: 14px;
+}
+
